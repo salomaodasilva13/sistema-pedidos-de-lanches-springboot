@@ -1,0 +1,12 @@
+* Na classe PixConsultaPagamento o método consultar retorna true simulando OK no pagamento altere isto!
+* O Gateway de pagamento era o Gerencia net (EfyPay).
+* O sistema roda com o Java 17
+
+-----------------------------------------------------------
+
+Dúvidas: salomao@taimber.com
+Livros de programação escritos por mim: www.taimber.com
+
+-----------------------------------------------------------
+
+

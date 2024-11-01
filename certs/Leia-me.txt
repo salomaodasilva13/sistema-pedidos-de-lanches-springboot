@@ -1,0 +1,3 @@
+Coloque o certificado de produção nesta pasta.
+
+Exemplo anterior: productionCertificate.p12
